@@ -19,17 +19,14 @@
 <table>
 <tr>
 <td width="33%" align="center">
-<img src="https://via.placeholder.com/80x80/667eea/ffffff?text=🎨" width="60">
 <h3>Modern UI/UX</h3>
 <p>Glassmorphism design with responsive layout</p>
 </td>
 <td width="33%" align="center">
-<img src="https://via.placeholder.com/80x80/f093fb/ffffff?text=🔒" width="60">
 <h3>Anti-Malpractice</h3>
 <p>Full-screen mode with tab-switch detection</p>
 </td>
 <td width="33%" align="center">
-<img src="https://via.placeholder.com/80x80/4ade80/ffffff?text=⚡" width="60">
 <h3>Real-time</h3>
 <p>Dynamic questions with live timer</p>
 </td>
@@ -63,25 +60,25 @@ npm start
 <details>
 <summary>🔍 <strong>Click to explore features</strong></summary>
 
-### 🎯 **Core Features**
-- ✅ **15 Dynamic MCQs** - Fresh Computer Science questions every time
-- ⏱️ **Smart Timer** - 30-minute auto-submission with 2-min per question guide
-- 🚫 **Malpractice Prevention** - Tab-switch, refresh, and full-screen exit detection
-- 📱 **Mobile Responsive** - Seamless experience across all devices
-- 🧭 **Free Navigation** - Jump between questions using side panel
+### **Core Features**
+-  **15 Dynamic MCQs** - Fresh Computer Science questions every time
+-  **Smart Timer** - 30-minute auto-submission with 2-min per question guide
+-  **Malpractice Prevention** - Tab-switch, refresh, and full-screen exit detection
+-  **Mobile Responsive** - Seamless experience across all devices
+-  **Free Navigation** - Jump between questions using side panel
 
-### 🛡️ **Security Features**
-- 🔒 Enforced full-screen mode during quiz
-- 👁️ Tab visibility monitoring
-- 🚨 Auto-submit on suspicious activity
-- 🔄 Refresh/reload prevention
+### **Security Features**
+-  Enforced full-screen mode during quiz
+-  Tab visibility monitoring
+-  Auto-submit on suspicious activity
+-  Refresh/reload prevention
 
-### 📊 **Results & Analytics**
-- 📈 Detailed score breakdown
-- 📋 Question-by-question review
-- 📤 Share results functionality
-- ⬇️ Download score report
-- 🔁 Retake or start new quiz options
+### **Results & Analytics**
+-  Detailed score breakdown
+-  Question-by-question review
+-  Share results functionality
+-  Download score report
+-  Retake or start new quiz options
 
 </details>
 
@@ -133,7 +130,7 @@ graph TD
 ![Quiz Screen](https://i.ibb.co/SwjwrP5Y/image.png)
 
 ### Results Dashboard
-![Results Screen](https://via.placeholder.com/600x300/4ade80/ffffff?text=Results+Dashboard+-+Score+Analysis)
+![Results Screen](https://i.ibb.co/21dCt39n/image.png)
 
 </div>
 
