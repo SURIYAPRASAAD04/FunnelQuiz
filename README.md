@@ -126,13 +126,13 @@ graph TD
 
 <div align="center">
 
-### 🏠 Start Screen
-![Start Screen](https://via.placeholder.com/600x300/667eea/ffffff?text=Start+Screen+-+Email+Registration)
+### Start Screen
+![Start Screen](https://i.ibb.co/pjH1Pnnq/Screenshot-2025-07-31-105718.png)
 
-### ❓ Quiz Interface
+### Quiz Interface
 ![Quiz Screen](https://via.placeholder.com/600x300/f093fb/ffffff?text=Quiz+Interface+-+Question+Display)
 
-### 📊 Results Dashboard
+### Results Dashboard
 ![Results Screen](https://via.placeholder.com/600x300/4ade80/ffffff?text=Results+Dashboard+-+Score+Analysis)
 
 </div>
@@ -205,8 +205,6 @@ FunnelQuiz/
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://suriyaprasaad.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suriyaprasaad/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suriyaprasaadjayasugumar04@gmail.com)
-
-*Developed as part of CausalFunnel Software Engineer Intern Evaluation*
 
 </div>
 
