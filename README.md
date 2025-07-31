@@ -130,7 +130,7 @@ graph TD
 ![Start Screen](https://i.ibb.co/pjH1Pnnq/Screenshot-2025-07-31-105718.png)
 
 ### Quiz Interface
-![Quiz Screen](https://via.placeholder.com/600x300/f093fb/ffffff?text=Quiz+Interface+-+Question+Display)
+![Quiz Screen](https://i.ibb.co/SwjwrP5Y/image.png)
 
 ### Results Dashboard
 ![Results Screen](https://via.placeholder.com/600x300/4ade80/ffffff?text=Results+Dashboard+-+Score+Analysis)
