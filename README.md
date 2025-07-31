@@ -129,9 +129,6 @@ graph TD
 ### Quiz Interface
 ![Quiz Screen](https://i.ibb.co/SwjwrP5Y/image.png)
 
-### Results Dashboard
-![Results Screen](https://i.ibb.co/21dCt39n/image.png)
-
 </div>
 
 ---
