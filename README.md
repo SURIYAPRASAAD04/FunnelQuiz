@@ -2,11 +2,11 @@
 
 <div align="center">
 
-![FunnelQuiz Banner](https://via.placeholder.com/800x200/667eea/ffffff?text=FunnelQuiz+-+Smart+Quiz+Platform)
+![FunnelQuiz Banner](https://i.ibb.co/vxWVwPHr/image.png)
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-success?style=for-the-badge&logo=netlify)](https://causalfunnelquiz.netlify.app/)
-[![GitHub Repo](https://img.shields.io/badge/💻_Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/SURIYAPRASAAD04/FunnelQuiz)
-[![Video Demo](https://img.shields.io/badge/🎥_Video_Demo-Watch_Now-red?style=for-the-badge&logo=googledrive)](https://drive.google.com/drive/folders/1IQX6zi-sM3tq_T2g5QGJ2psZij4fDcrH?usp=sharing)
+[![Live Demo](https://img.shields.io/badge/_Live_Demo-Visit_Now-success?style=for-the-badge&logo=netlify)](https://causalfunnelquiz.netlify.app/)
+[![GitHub Repo](https://img.shields.io/badge/_Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/SURIYAPRASAAD04/FunnelQuiz)
+[![Video Demo](https://img.shields.io/badge/_Video_Demo-Watch_Now-red?style=for-the-badge&logo=googledrive)](https://drive.google.com/drive/folders/1IQX6zi-sM3tq_T2g5QGJ2psZij4fDcrH?usp=sharing)
 
 **A modern, secure, and anti-malpractice quiz platform built for the digital age**
 
@@ -58,7 +58,7 @@ npm start
 ## Features Showcase
 
 <details>
-<summary>🔍 <strong>Click to explore features</strong></summary>
+<summary><strong>Click to explore features</strong></summary>
 
 ### **Core Features**
 -  **15 Dynamic MCQs** - Fresh Computer Science questions every time
@@ -100,19 +100,19 @@ npm start
 
 ```mermaid
 graph TD
-    A[🏁 Start Screen] --> B[📧 Email Registration]
-    B --> C[📋 Quiz Instructions]
-    C --> D[🔒 Full Screen Mode]
-    D --> E[❓ Question 1/15]
-    E --> F[🧭 Navigate Questions]
-    F --> G[⏱️ Timer Running]
-    G --> H{⏰ Time Up?}
-    H -->|Yes| I[📤 Auto Submit]
-    H -->|No| J[✋ Manual Submit]
-    I --> K[📊 Results Screen]
+    A[ Start Screen] --> B[ Email Registration]
+    B --> C[ Quiz Instructions]
+    C --> D[ Full Screen Mode]
+    D --> E[ Question 1/15]
+    E --> F[ Navigate Questions]
+    F --> G[ Timer Running]
+    G --> H{ Time Up?}
+    H -->|Yes| I[ Auto Submit]
+    H -->|No| J[ Manual Submit]
+    I --> K[ Results Screen]
     J --> K
-    K --> L[🔁 Retake Quiz]
-    K --> M[🆕 New Quiz]
+    K --> L[ Retake Quiz]
+    K --> M[ New Quiz]
     L --> A
     M --> A
 ```
