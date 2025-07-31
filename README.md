@@ -1,4 +1,4 @@
-# 🎯 FunnelQuiz - Smart Quiz Assessment Platform
+# FunnelQuiz - Smart Quiz Assessment Platform
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🌟 Project Highlights
+## Project Highlights
 
 <table>
 <tr>
@@ -38,7 +38,7 @@
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # Clone the repository
@@ -58,7 +58,7 @@ npm start
 
 ---
 
-## 🎮 Features Showcase
+## Features Showcase
 
 <details>
 <summary>🔍 <strong>Click to explore features</strong></summary>
@@ -87,7 +87,7 @@ npm start
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -99,7 +99,7 @@ npm start
 
 ---
 
-## 📱 Application Flow
+## Application Flow
 
 ```mermaid
 graph TD
@@ -122,7 +122,7 @@ graph TD
 
 ---
 
-## 🎨 Screenshots
+## Screenshots
 
 <div align="center">
 
@@ -139,7 +139,7 @@ graph TD
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 FunnelQuiz/
@@ -164,7 +164,7 @@ FunnelQuiz/
 
 ---
 
-## 🚧 Challenges Overcome
+## Challenges Overcome
 
 <table>
 <tr>
@@ -173,88 +173,37 @@ FunnelQuiz/
 <th>Impact</th>
 </tr>
 <tr>
-<td>🚫 Preventing Malpractice</td>
+<td>Preventing Malpractice</td>
 <td>Full-screen API + event listeners for tab switching, refresh attempts</td>
-<td>✅ Secure exam environment</td>
+<td>Secure exam environment</td>
 </tr>
 <tr>
-<td>⏱️ Timer Management</td>
+<td>Timer Management</td>
 <td>JavaScript intervals with auto-submission triggers</td>
-<td>✅ Fair time enforcement</td>
+<td>Fair time enforcement</td>
 </tr>
 <tr>
-<td>📱 Mobile Responsiveness</td>
+<td>Mobile Responsiveness</td>
 <td>Tailwind CSS utilities + separate mobile navigation</td>
-<td>✅ Cross-device compatibility</td>
+<td>Cross-device compatibility</td>
 </tr>
 <tr>
-<td>🔄 State Management</td>
+<td>State Management</td>
 <td>Centralized React hooks across components</td>
-<td>✅ Smooth user experience</td>
+<td>Smooth user experience</td>
 </tr>
 </table>
 
 ---
 
-## 🎯 Future Roadmap
-
-<div align="center">
-
-```mermaid
-timeline
-    title FunnelQuiz Development Roadmap
-    
-    Phase 1 : Core Platform
-           : ✅ Quiz Interface
-           : ✅ Anti-malpractice
-           : ✅ Timer System
-    
-    Phase 2 : Backend Integration
-           : 🔄 MongoDB/Firebase
-           : 🔄 User Authentication
-           : 🔄 Result Storage
-    
-    Phase 3 : Advanced Features
-           : 📅 Admin Dashboard
-           : 📅 Multiple Categories
-           : 📅 AI Question Generation
-    
-    Phase 4 : Enterprise
-           : 📅 Cloud Deployment
-           : 📅 Analytics Dashboard
-           : 📅 Adaptive Learning
-```
-
-</div>
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Here's how you can help:
-
-1. 🍴 Fork the repository
-2. 🌿 Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. ✍️ Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. 📤 Push to the branch (`git push origin feature/AmazingFeature`)
-5. 🔄 Open a Pull Request
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👨‍💻 Developer
+## Developer
 
 <div align="center">
 
 ### **Suriya Prasaad**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://suriyaprasaad.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suriyaprasaad/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suriyaprasaadjayasugumar04@gmail.com)
 
 *Developed as part of CausalFunnel Software Engineer Intern Evaluation*
