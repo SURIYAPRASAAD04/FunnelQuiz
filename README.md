@@ -6,7 +6,7 @@
 
 [![Live Demo](https://img.shields.io/badge/_Live_Demo-Visit_Now-success?style=for-the-badge&logo=netlify)](https://causalfunnelquiz.netlify.app/)
 [![GitHub Repo](https://img.shields.io/badge/_Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/SURIYAPRASAAD04/FunnelQuiz)
-[![Video Demo](https://img.shields.io/badge/_Video_Demo-Watch_Now-red?style=for-the-badge&logo=googledrive)](https://drive.google.com/drive/folders/1IQX6zi-sM3tq_T2g5QGJ2psZij4fDcrH?usp=sharing)
+[![Video Demo](https://img.shields.io/badge/_Video_Demo-Watch_Now-red?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1kYoVahkPNzQDf2gjsZ8ECzRHzfS8wOfT/view?usp=sharing)
 
 **A modern, secure, and anti-malpractice quiz platform built for the digital age**
 
